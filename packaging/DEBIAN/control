@@ -1,0 +1,6 @@
+Package: calc-app
+Version: 1.0.0
+Maintainer: Sander Brilman <sanderbrilman@proton.me>
+Architecture: amd64
+Description: a simple calculator app
+Depends: dotnet-runtime-9.0
